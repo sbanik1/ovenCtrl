@@ -28,7 +28,7 @@ Here are a list of the hardware components.
     <li>The time series temperature values are stored via a time series database manager (TSDM). These values could be viewed via the web application 'Grafana' which provides an interactive visualization tool.</li>
 </ul>
 
-<table><tr><td><img src='/figure/ovenControl_1.png' alt="Drawing" width="400" height="400" ></td><td><img src='/figure/ovenControl_2.png' alt="Drawing" width="600" height="400" ></td></tr></table>
+<table><tr><td><img src='/figures/ovenControl_2.png' alt="Drawing" width="300" height="300" ></td><td><img src='/figures/ovenControl_1.png' alt="Drawing" width="400" height="300" ></td></tr></table>
 
 
 ## Contents
